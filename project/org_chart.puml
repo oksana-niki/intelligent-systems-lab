@@ -1,0 +1,32 @@
+@startuml
+title Организационная структура центра реабилитации "Надежда"
+
+skinparam linetype ortho
+skinparam defaultTextAlignment center
+skinparam rectangle {
+    BackgroundColor White
+    BorderColor Black
+}
+
+rectangle "Главный врач" as A {
+}
+
+rectangle "Заместитель по медчасти" as B
+rectangle "Административно-хозяйственный отдел" as C
+rectangle "Методист (научный отдел)" as D
+rectangle "Заведующий отделом ТСР" as E
+rectangle "Главный бухгалтер" as F
+
+A -down-> B
+A -down-> C
+A -down-> D
+A -down-> E
+A -down-> F
+
+rectangle "Инженеры по ТСР" as G
+rectangle "Специалисты по обучению\nиспользованию ТСР" as H
+
+E -down-> G
+E -down-> H
+
+@enduml
