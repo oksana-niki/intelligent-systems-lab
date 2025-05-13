@@ -1,0 +1,17 @@
+@startuml
+actor Doctor
+participant "Patient\n(данные)" as Patient
+participant "User Interface" as UI
+participant "AI System" as AI
+database "Knowledge Base\n(Rules / Cases)" as KB
+
+Doctor -> UI : Ввод данных пациента
+UI -> Patient : Сохраняет введённые данные
+UI -> AI : Отправка анкеты пациента
+AI -> KB : Запрос подходящих ТСР
+KB --> AI : Рекомендации по ТСР
+AI -> UI : Возврат списка рекомендаций
+UI -> Doctor : Отображение предложенных ТСР
+Doctor -> UI : Утверждение выбора
+
+@enduml

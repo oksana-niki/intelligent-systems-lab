@@ -1,30 +1,15 @@
 @startuml
-' Настройка внешнего вида
-skinparam style strictuml
-skinparam defaultTextAlignment center
-skinparam rectangle {
-  BackgroundColor #FDFDFD
-  BorderColor #333
-}
-
-' Внешние сущности
 actor "Врач-реабилитолог" as Doctor
 actor "Родитель / Опекун" as Parent
 database "База знаний\n(ТСР, правила, кейсы)" as KnowledgeBase
+participant "1. Подбор\nтехнических средств\nреабилитации" as Selection
 
-' Основной процесс
-rectangle "1. Подбор\nтехнических средств\nреабилитации" as MatchTsr
+Doctor -> Selection : Анкета пациента\nМед. заключения
+Selection -> Doctor : Отчёт с рекомендациями
 
-' Потоки данных от/к врачу
-Doctor --> MatchTsr : Анкета пациента\nМед. заключения
-MatchTsr --> Doctor : Отчёт с рекомендациями
+Selection -> Parent : Список рекомендованных ТСР
+Selection -> Parent : Информация о ребёнке
 
-' Потоки данных от/к родителю
-Parent --> MatchTsr : Информация о ребёнке
-MatchTsr --> Parent : Список рекомендованных ТСР
-
-' Работа с базой знаний
-MatchTsr --> KnowledgeBase : Запрос по критериям пациента
-KnowledgeBase --> MatchTsr : Соответствующие ТСР
-
+Selection -> KnowledgeBase : Запрос по критериям пациента
+KnowledgeBase --> Selection : Соответствующие ТСР
 @enduml
