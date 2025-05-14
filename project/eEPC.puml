@@ -1,0 +1,52 @@
+@startuml
+skinparam style strictuml
+skinparam activity {
+    StartColor LightBlue
+    EndColor LightBlue
+    BackgroundColor #e6ffe6
+    BorderColor Black
+    FontSize 14
+    FontName "Arial"
+}
+
+start
+
+' Событие
+note right
+  Пациент поступает в центр
+end note
+
+:Провести первичное обследование;
+
+note right
+  Диагноз установлен
+end note
+
+:Заполнить анкету пациента;
+
+note right
+  Данные о состоянии пациента доступны
+end note
+
+:Подобрать ТСР;
+
+note right
+  Рекомендованные ТСР выбраны
+end note
+
+:Передать информацию инженеру;
+
+:Протестировать ТСР с пациентом;
+
+note right
+  Подходящее ТСР утверждено
+end note
+
+:Оформить заказ;
+
+note right
+  Подбор завершён
+end note
+
+stop
+@enduml
