@@ -2,14 +2,17 @@
 actor "Врач-реабилитолог" as Doctor
 actor "Родитель / Опекун" as Parent
 database "База знаний\n(ТСР, правила, кейсы)" as KnowledgeBase
+database "Информационная система\nмедицинского центра" as MIS
 participant "1. Подбор\nтехнических средств\nреабилитации" as Selection
 
 Doctor -> Selection : Анкета пациента\nМед. заключения
+Selection -> MIS : Запрос данных пациента (история, диагнозы)
+MIS --> Selection : Медицинская информация
+
+Selection -> KnowledgeBase : Критерии поиска\n(диагноз, GMFCS и т.д.)
+KnowledgeBase --> Selection : Подходящие ТСР\n+ объяснение выбора
+
 Selection -> Doctor : Отчёт с рекомендациями
+Selection -> Parent : Список ТСР и пояснения
 
-Selection -> Parent : Список рекомендованных ТСР
-Selection -> Parent : Информация о ребёнке
-
-Selection -> KnowledgeBase : Запрос по критериям пациента
-KnowledgeBase --> Selection : Соответствующие ТСР
 @enduml

@@ -1,0 +1,13 @@
+@startwbs
+* <color:DarkBlue><&hospital> Повышение качества реабилитации</color>
+** <color:DarkGreen><&check> Оптимизация подбора ТСР</color>
+*** <color:Black><&robot> Создание ИИ-системы подбора ТСР</color>
+**** <&books> Сбор и систематизация знаний
+**** <&ontology> Разработка онтологии предметной области
+**** <&gears> Формализация правил или кейсов
+**** <&desktop> Проектирование архитектуры и интерфейса
+**** <&eye> Реализация объяснимости (explainable AI)
+** <color:SteelBlue><&users> Снижение нагрузки на специалистов</color>
+** <color:Teal><&laptop> Цифровизация процесса подбора</color>
+** <color:DarkRed><&ambulance> Повышение доступности помощи</color>
+@endwbs
