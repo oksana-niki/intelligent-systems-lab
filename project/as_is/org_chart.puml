@@ -1,0 +1,75 @@
+@startuml
+title Организационная структура Центра реабилитации детей с ДЦП
+
+skinparam linetype ortho
+skinparam defaultTextAlignment center
+skinparam rectangle {
+    BackgroundColor White
+    BorderColor Black
+}
+
+' === Уровень 0 ===
+rectangle "Центр реабилитации\nдетей с ДЦП" as Center
+
+' === Уровень 1 ===
+rectangle "Администрация" as Admin
+rectangle "Медико-диагностическое\nотделение" as MedDiag
+rectangle "Отдел ЛФК и\nфизиотерапии" as LFK
+rectangle "Отдел ТСР и\nэрготерапии" as TsrDept
+rectangle "Психолого-педагогическая\nслужба" as PsychDept
+rectangle "Социально-юридическая\nслужба" as SocialDept
+rectangle "Медицинская служба" as MedServ
+
+Center -down-> Admin
+Center -down-> MedDiag
+Center -down-> LFK
+Center -down-> TsrDept
+Center -down-> PsychDept
+Center -down-> SocialDept
+Center -down-> MedServ
+
+' === Администрация ===
+rectangle "Директор" as Director
+rectangle "Методист / Зав. отделением" as Method
+Admin -down-> Director
+Admin -down-> Method
+
+' === Медико-диагностическое отделение ===
+rectangle "Детский невролог" as Neurologist
+rectangle "Ортопед" as Orthopedist
+rectangle "Реабилитолог" as Rehabilitator
+MedDiag -down-> Neurologist
+MedDiag -down-> Orthopedist
+MedDiag -down-> Rehabilitator
+
+' === ЛФК ===
+rectangle "Врач ЛФК" as LFKDoctor
+rectangle "Инструкторы" as Instructors
+LFK -down-> LFKDoctor
+LFK -down-> Instructors
+
+' === ТСР ===
+rectangle "Эрготерапевт" as Ergo
+rectangle "Инженер по ТСР" as Engineer
+rectangle "Технический консультант" as Consultant
+TsrDept -down-> Ergo
+TsrDept -down-> Engineer
+TsrDept -down-> Consultant
+
+' === Психолого-педагогическая служба ===
+rectangle "Психолог" as Psychologist
+rectangle "Логопед / дефектолог" as Speech
+PsychDept -down-> Psychologist
+PsychDept -down-> Speech
+
+' === Социально-юридическая служба ===
+rectangle "Социальный работник" as SocialWorker
+SocialDept -down-> SocialWorker
+
+' === Медицинская служба ===
+rectangle "Медсёстры" as Nurses
+rectangle "Помощники по уходу" as CareAssistants
+MedServ -down-> Nurses
+MedServ -down-> CareAssistants
+
+@enduml
