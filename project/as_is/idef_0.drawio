@@ -17,15 +17,6 @@
         <mxCell id="MIAvLR50btDMAMFafLu4-6" value="Подбор ТСР&lt;div&gt;&amp;nbsp;детям с ДЦП&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;strokeWidth=2;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="283" y="288" width="200" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="MIAvLR50btDMAMFafLu4-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;dashed=1;dashPattern=1 2;" parent="1" vertex="1">
-          <mxGeometry x="544" y="440" width="160" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="MIAvLR50btDMAMFafLu4-10" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;dashed=1;dashPattern=1 2;" parent="1" vertex="1">
-          <mxGeometry x="716" y="524" width="160" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="MIAvLR50btDMAMFafLu4-15" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;dashed=1;dashPattern=1 2;" parent="1" vertex="1">
-          <mxGeometry x="720" y="429" width="160" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="MIAvLR50btDMAMFafLu4-21" value="&lt;span&gt;Отчет по подбору&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="522" y="307" width="240" height="20" as="geometry" />
         </mxCell>
