@@ -18,28 +18,23 @@
         <mxCell id="iDkN2FxSkFB0QoTPlB-i-6" value="Индивидуальные цели реабилитации" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="26" y="319" width="240" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="iDkN2FxSkFB0QoTPlB-i-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="iDkN2FxSkFB0QoTPlB-i-10" target="iDkN2FxSkFB0QoTPlB-i-20" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="iDkN2FxSkFB0QoTPlB-i-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="iDkN2FxSkFB0QoTPlB-i-10" edge="1">
+        <mxCell id="yS_BppXNrRtbRSFfcM85-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="iDkN2FxSkFB0QoTPlB-i-10">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="549" y="364" as="targetPoint" />
+            <mxPoint x="797" y="274" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iDkN2FxSkFB0QoTPlB-i-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="iDkN2FxSkFB0QoTPlB-i-10" target="iDkN2FxSkFB0QoTPlB-i-21" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="yS_BppXNrRtbRSFfcM85-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iDkN2FxSkFB0QoTPlB-i-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="798" y="314" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="iDkN2FxSkFB0QoTPlB-i-10" value="Подбор ТСР&lt;div&gt;&amp;nbsp;детям с ДЦП&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=29;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="yS_BppXNrRtbRSFfcM85-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="iDkN2FxSkFB0QoTPlB-i-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="794" y="354" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iDkN2FxSkFB0QoTPlB-i-10" value="Подбор ТСР&lt;div&gt;&amp;nbsp;детям с ДЦП&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="307" y="234" width="200" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="iDkN2FxSkFB0QoTPlB-i-20" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-align: center;&quot;&gt;Отчет по подбору&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="550" y="237" width="240" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="iDkN2FxSkFB0QoTPlB-i-21" value="&lt;span style=&quot;font-family: Times; text-align: left;&quot;&gt;Рекомендованный набор ТСР&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="550" y="294" width="240" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="iDkN2FxSkFB0QoTPlB-i-22" value="Протокол консультации" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="550" y="345" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iDkN2FxSkFB0QoTPlB-i-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="iDkN2FxSkFB0QoTPlB-i-23" target="iDkN2FxSkFB0QoTPlB-i-10" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -107,6 +102,15 @@
               <mxPoint x="420" y="416" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="yS_BppXNrRtbRSFfcM85-11" value="&lt;span&gt;Отчет по подбору&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="605" y="250" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yS_BppXNrRtbRSFfcM85-17" value="&lt;span style=&quot;font-family: Times; text-align: left;&quot;&gt;Рекомендованный набор ТСР&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="585" y="288" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yS_BppXNrRtbRSFfcM85-18" value="&lt;span&gt;Протокол консультации&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="591" y="333" width="240" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
