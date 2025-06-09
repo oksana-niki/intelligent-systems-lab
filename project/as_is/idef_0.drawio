@@ -4,11 +4,6 @@
       <root>
         <mxCell id="X5NqExCQtvZxIxQ7pmgY-0" />
         <mxCell id="1" parent="X5NqExCQtvZxIxQ7pmgY-0" />
-        <mxCell id="MIAvLR50btDMAMFafLu4-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="MIAvLR50btDMAMFafLu4-6" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="773" y="328" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="MIAvLR50btDMAMFafLu4-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="MIAvLR50btDMAMFafLu4-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="770" y="408" as="targetPoint" />
@@ -85,13 +80,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MIAvLR50btDMAMFafLu4-21" value="&lt;span&gt;Отчет по подбору&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="522" y="305" width="240" height="20" as="geometry" />
+          <mxGeometry x="522" y="307" width="240" height="20" as="geometry" />
         </mxCell>
         <mxCell id="MIAvLR50btDMAMFafLu4-22" value="&lt;span style=&quot;&quot;&gt;Рекомендованный набор ТСР&lt;/span&gt;" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="519" y="344" width="240" height="20" as="geometry" />
+          <mxGeometry x="519" y="347" width="240" height="20" as="geometry" />
         </mxCell>
         <mxCell id="MIAvLR50btDMAMFafLu4-23" value="&lt;span&gt;Протокол консультации&lt;/span&gt;" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="519" y="387" width="240" height="20" as="geometry" />
+          <mxGeometry x="519" y="388" width="240" height="20" as="geometry" />
         </mxCell>
         <mxCell id="y-ezYGlPpoAGG1hy6tS6-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -116,6 +111,12 @@
         </mxCell>
         <mxCell id="y-ezYGlPpoAGG1hy6tS6-8" value="&lt;span style=&quot;font-family: Helvetica; text-align: center;&quot;&gt;Индивидуальные цели реабилитации&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="-3" y="386" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="y-ezYGlPpoAGG1hy6tS6-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="770" y="328" as="targetPoint" />
+            <mxPoint x="483" y="328" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
