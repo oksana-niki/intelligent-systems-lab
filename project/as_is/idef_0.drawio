@@ -17,33 +17,14 @@
         <mxCell id="MIAvLR50btDMAMFafLu4-6" value="Подбор ТСР&lt;div&gt;&amp;nbsp;детям с ДЦП&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;strokeWidth=2;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="283" y="288" width="200" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="MIAvLR50btDMAMFafLu4-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="MIAvLR50btDMAMFafLu4-8" target="MIAvLR50btDMAMFafLu4-6" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="202" y="268" />
-              <mxPoint x="333" y="268" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="MIAvLR50btDMAMFafLu4-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;dashed=1;dashPattern=1 2;" parent="1" vertex="1">
+          <mxGeometry x="544" y="440" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="MIAvLR50btDMAMFafLu4-8" value="Методические&amp;nbsp;&lt;div&gt;&lt;span style=&quot;font-family: Times; text-align: start; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;рекомендации Минздрава и ВОЗ&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;dashed=1;dashPattern=1 2;" parent="1" vertex="1">
-          <mxGeometry x="122" y="178" width="160" height="80" as="geometry" />
+        <mxCell id="MIAvLR50btDMAMFafLu4-10" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;dashed=1;dashPattern=1 2;" parent="1" vertex="1">
+          <mxGeometry x="716" y="524" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="MIAvLR50btDMAMFafLu4-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="MIAvLR50btDMAMFafLu4-10" target="MIAvLR50btDMAMFafLu4-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="MIAvLR50btDMAMFafLu4-10" value="&lt;span style=&quot;font-family: Times; text-align: start; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Классификация форм ДЦП (ICF)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;dashed=1;dashPattern=1 2;" parent="1" vertex="1">
-          <mxGeometry x="303" y="178" width="160" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="MIAvLR50btDMAMFafLu4-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="MIAvLR50btDMAMFafLu4-15" target="MIAvLR50btDMAMFafLu4-6" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="563" y="268" />
-              <mxPoint x="433" y="268" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MIAvLR50btDMAMFafLu4-15" value="П&lt;span style=&quot;font-family: Times; text-align: start; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;равила и знания экспертов&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;dashed=1;dashPattern=1 2;" parent="1" vertex="1">
-          <mxGeometry x="483" y="178" width="160" height="80" as="geometry" />
+        <mxCell id="MIAvLR50btDMAMFafLu4-15" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;dashed=1;dashPattern=1 2;" parent="1" vertex="1">
+          <mxGeometry x="720" y="429" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MIAvLR50btDMAMFafLu4-21" value="&lt;span&gt;Отчет по подбору&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="522" y="307" width="240" height="20" as="geometry" />
@@ -95,6 +76,33 @@
         </mxCell>
         <mxCell id="y-ezYGlPpoAGG1hy6tS6-16" value="&lt;span style=&quot;font-family: Helvetica; text-align: center;&quot;&gt;Врач-реабилитолог&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="334" y="529" width="118" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y-ezYGlPpoAGG1hy6tS6-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="471" y="288" as="targetPoint" />
+            <mxPoint x="471" y="92" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y-ezYGlPpoAGG1hy6tS6-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="295" y="287" as="targetPoint" />
+            <mxPoint x="295" y="91" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y-ezYGlPpoAGG1hy6tS6-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="383" y="287" as="targetPoint" />
+            <mxPoint x="383" y="91" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y-ezYGlPpoAGG1hy6tS6-21" value="&lt;span style=&quot;font-family: Helvetica; text-align: center;&quot;&gt;П&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent; font-family: Times;&quot;&gt;равила&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent; font-family: Times;&quot;&gt;и&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-family: Times;&quot;&gt;знания&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent; font-family: Times;&quot;&gt;экспертов&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="296" y="165" width="56" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="y-ezYGlPpoAGG1hy6tS6-23" value="&lt;span style=&quot;font-family: Times;&quot;&gt;Классификация форм&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: Times;&quot;&gt;ДЦП&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: Times;&quot;&gt;(ICF)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="472" y="162" width="91" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="y-ezYGlPpoAGG1hy6tS6-24" value="&lt;span style=&quot;font-family: Helvetica;&quot;&gt;Методические&amp;nbsp;&lt;/span&gt;&lt;div style=&quot;font-family: Helvetica;&quot;&gt;&lt;span style=&quot;font-family: Times; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;рекомендации Минздрава и ВОЗ&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="384" y="170" width="56" height="54" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
